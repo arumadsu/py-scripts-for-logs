@@ -7,6 +7,19 @@ temp/
 # System files
 .DS_Store
 
-# Настройки редакторов (если пользуешься VS Code или jet brains)
 .vscode
 .idea
+
+instance/
+*.db
+*.sqlite3
+
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
